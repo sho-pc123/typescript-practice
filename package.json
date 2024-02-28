@@ -1,0 +1,11 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sho-pc123/typescript-practice.git",
+  "author": "sho-pc123 <syouteni123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.11.22"
+  }
+}
