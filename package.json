@@ -5,7 +5,9 @@
   "repository": "https://github.com/sho-pc123/typescript-practice.git",
   "author": "sho-pc123 <syouteni123@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "@types/node": "^20.11.22"
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.11.22",
+    "typescript": "^5.3.3"
   }
 }
