@@ -3,7 +3,7 @@ type MyFunc = {
   (arg: number): void;
 }
 
-const double: MyFunc = (arg: number) => {
+const double: MyFunc = (arg) => {
   console.log(arg * 2);
 }
 
