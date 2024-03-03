@@ -1,2 +1,2 @@
 "use strict";
-const xRepeat = (num) => "x".repeat(num);
+const zRepeat = (num) => "z".repeat(num);

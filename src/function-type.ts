@@ -1,3 +1,3 @@
 type F = (repeatNum: number) => string;
 
-const xRepeat: F = (num: number):string => "x".repeat(num)
+const zRepeat: F = (num: number):string => "z".repeat(num)
