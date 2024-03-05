@@ -1,4 +1,4 @@
-const obj = {
+const obj2 = {
   // メソッド記法
   double(num: number): number {
     return num * 2;

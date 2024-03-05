@@ -1,5 +1,5 @@
 "use strict";
-const obj = {
+const obj2 = {
     // メソッド記法
     double(num) {
         return num * 2;
