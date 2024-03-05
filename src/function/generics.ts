@@ -1,10 +1,10 @@
 // 型引数
-type User<N> = {
+type User5<N> = {
   neme: N;
 }
 
 // 型引数を持つ関数（ジェネリック関数）
-function repeat<T>(element: T, length: number): T[] {
+function repeat3<T>(element: T, length: number): T[] {
   const result: T[] = [];
   for(let i = 0; i < length; i++){
     result.push(element);
