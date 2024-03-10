@@ -22,3 +22,5 @@ const four313 = {
 const nothing313 = {
     tag: "none"
 };
+doubleOption(four313);
+doubleOption(nothing313);

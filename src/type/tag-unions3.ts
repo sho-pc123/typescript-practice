@@ -31,3 +31,6 @@ const four313: Option313<number> = {
 const nothing313: Option313<number> = {
   tag: "none"
 }
+
+doubleOption(four313);
+doubleOption(nothing313);
